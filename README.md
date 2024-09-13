@@ -1,6 +1,6 @@
 # graphLLM
 
-Overall goal is to perform a comparative analysis of LLM output responses augmented by three different augmentors: 
+Overall goal of this research is to perform a comparative analysis of LLM output responses augmented by three different augmentors: 
 
 - Textual information (source material)
 - Graph information (structural representation of the source material) or 
